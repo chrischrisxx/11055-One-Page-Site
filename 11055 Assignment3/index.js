@@ -1,8 +1,8 @@
 const data = [
   {
-    menuText: 'BUSHFIRE BASICS', // 导航名称
-    image: 'LightningexJGittins.jpg', // 对应asset中的图片文件
-    content: [ // 显示的内容，可以无限增加
+    menuText: 'BUSHFIRE BASICS',
+    image: 'LightningexJGittins.jpg',
+    content: [ 
       'Bushfire Basics',
       'It is not possible to completely eradicate bushfires. Even if there were no accidents, and no acts of human carelessness or incendiarism, bushfires would still be started by lightning, as they were for many millennia before the arrival of humans on the Australian continent. However, we can minimize the number of human-caused fire ignitions by public awareness programs, and much effort has been devoted to this over many years. Despite this effort, we still have large numbers of arson ignitions each fire season. ',
       'Sadly, the number of incidents of arson has increased significantly in recent years, which would indicate that there is a limit to the value of education programs. It is possible that a dramatic increase in the penalties for arson might reduce its incidence, but it is most unlikely to eliminate it. Arsonists are frequently not rational and do not weigh the possible consequences of their actions against likely penalties. Furthermore, in the current international political climate, we have to consider the possibility that terrorists might use arson as part of a disruptive program.',
